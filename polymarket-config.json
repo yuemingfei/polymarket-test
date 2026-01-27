@@ -1,10 +1,10 @@
 [
   {
     "currency": "btc",
-    "enable": true
+    "enable": false
   },
   {
     "currency": "eth",
-    "enable": true
+    "enable": false
   }
 ]
