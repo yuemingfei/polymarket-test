@@ -2,11 +2,11 @@
   {
     "currency": "btc",
     "enable": true,
-    "direction": "down"
+    "direction": "up"
   },
   {
     "currency": "eth",
     "enable": true,
-    "direction": "down"
+    "direction": "uo"
   }
 ]
