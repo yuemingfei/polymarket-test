@@ -6,7 +6,7 @@
   },
   {
     "currency": "eth",
-    "enable": true
+    "enable": true,
     "direction": "down"
   }
 ]
