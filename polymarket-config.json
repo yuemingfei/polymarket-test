@@ -1,12 +1,12 @@
 [
   {
     "currency": "btc",
-    "enable": true,
+    "enable": false,
     "direction": "down"
   },
   {
     "currency": "eth",
-    "enable": true,
+    "enable": false,
     "direction": "down"
   }
 ]
