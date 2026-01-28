@@ -7,6 +7,6 @@
   {
     "currency": "eth",
     "enable": true,
-    "direction": "uo"
+    "direction": "up"
   }
 ]
